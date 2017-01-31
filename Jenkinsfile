@@ -1,0 +1,3 @@
+buildTool { 
+  nodeVersion = 'latest' 
+}
