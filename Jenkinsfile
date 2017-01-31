@@ -1,3 +1,0 @@
-buildTool { 
-  nodeVersion = 'latest' 
-}
